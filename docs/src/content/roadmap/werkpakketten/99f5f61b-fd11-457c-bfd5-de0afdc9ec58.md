@@ -19,5 +19,9 @@ toelichting: >-
   Hoe wordt deze werkwijze verankerd/geïnstitutionaliseerd
 volgorde: 0
 onderzoeksvragen: []
+bouw: deels
+rfcs:
+  - 5
+  - 18
 samenhangIds: []
 ---
